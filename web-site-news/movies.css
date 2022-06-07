@@ -1,0 +1,8 @@
+#movies{transition: 0.5s;}
+#movies:hover{
+    box-shadow: 0px 2px 26px 12px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 2px 26px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 26px 12px rgba(0,0,0,0.75);
+ width: 105%;
+ border-radius: 100% 100% 5% 5%;
+}

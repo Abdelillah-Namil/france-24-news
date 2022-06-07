@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    flex-wrap: wrap;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.bt1{
+    margin-right: 10px;
+}
+.nav-link {
+    text-align: center;
+    border-bottom: 4px solid transparent;
+    color: #00A7E3;
+    
+}
+.nav-link:hover{
+    border-bottom-color: #262626 ;
+    color: black; 
+}
+.bt1 button:hover{
+    background-color: black;
+}
+#ss{
+    background-image: url(211223-donald-trump-jm-1148.jpg);
+    max-width: 400px;
+    background-repeat: no-repeat;
+    box-shadow: 0 5px 15px rgb(0, 0, 0,.5);    
+}
+#sos{
+    text-decoration: none;
+}
+#sos:hover{
+    color: black;
+}
+.trump{
+    color: black;
+}
+.trump:hover{
+    color: #00A7E3;
+    
+}
+#ss2{ 
+    background-image:  url(211227-covid-testing-se-454p.jpg);
+    max-width: 400px;
+    background-repeat: no-repeat;
+    box-shadow: 0 5px 15px rgb(0, 0, 0,.5);
+    margin-left: 15.9%;
+
+}
+.cov{
+    position: relative;
+    max-width: 580px;
+    background-image: url(nurse-hospital-covid-new-mexico-01-ht-jt-211227_1640636532404_hpMain_16x9_608.jpg);
+    background-repeat: no-repeat;
+   box-shadow: 0 5px 15px rgb(0, 0, 0,.5);
+
+}
+#h4{
+    color: white;
+}
+#h4:hover{
+    color: #00A7E3;
+
+}
+.coc a{
+    text-decoration: none;
+    color: white;
+}
+.coc a:hover{
+    color: #00A7E3;
+}
+#soma{
+    box-shadow: 0 5px 15px rgb(0, 0, 0,.5);
+    max-width: 200px;
+    margin-left: 10%;
+    background-image: url(WireAP_7dd48123f5ef441eaceaa6972fd24054_16x9_608.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+
+}
+.foot{
+    position: relative;
+    max-width: 100vw;
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-shadow: 0 5px 15px rgb(0, 0, 0,.5);
+
+}
+
+#football:hover{
+    box-shadow: -2px -1px 24px -4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -2px -1px 24px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px -1px 24px -4px rgba(0,0,0,0.75);
+    transition: 0.8s;
+    width: 109%;
+
+}
+#messi{
+    background-image: url(i.jpg);
+    max-width: 400px;
+    box-shadow: 0 5px 15px rgb(0, 0, 0,.5);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 5%;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li:hover{
+    color: #00A7E3;
+}
+
+

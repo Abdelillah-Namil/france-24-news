@@ -1,0 +1,10 @@
+#know img{
+   border-radius: 100%;
+   box-shadow: 0 1px 15px rgb(0, 0, 0,.5);
+   transition: 0.7s;
+}
+#know img:hover{
+    width: 108%;
+    border-radius: 5%;
+    
+}
